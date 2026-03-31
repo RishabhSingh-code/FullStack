@@ -1,2 +1,2 @@
 # FullStack
-All the htmk,css and java script learned and practiced by me
+All the html,css and java script learned and practiced by me
