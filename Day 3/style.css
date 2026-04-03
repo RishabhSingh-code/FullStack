@@ -1,0 +1,16 @@
+*{
+    margin:0 ;
+    padding:0;
+    box-sizing: border-box;
+}
+height,width{
+    height:100 vh;
+    width: 100 vw;
+    display:flex;
+    justify-content:space-between;
+    
+}
+#style{
+    width: 20 vw;
+    height:25 vh;
+}
